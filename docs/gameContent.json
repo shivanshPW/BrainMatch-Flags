@@ -1,7 +1,7 @@
 {
   "gameMode": "textToImage",
   "content": {
-    "geography": {
+    "science": {
       "level1": {
         "pairs": [
           { "a": "India", "image": "images/11.png", "imageAlt": "flag of India" },
